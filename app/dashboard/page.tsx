@@ -158,7 +158,7 @@ export default function Dashboard() {
       {/* Background matching homepage */}
       <div className="absolute inset-0 bg-gradient-to-br from-gray-50 via-slate-50 to-gray-100">
         {/* Enhanced network pattern matching homepage */}
-        <div className="absolute inset-0 opacity-60">
+        <div className="absolute inset-0 opacity-10">
           <svg className="w-full h-full" viewBox="0 0 1200 800">
             <defs>
               <pattern
